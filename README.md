@@ -8,11 +8,11 @@ Creemos en la creación de juego limpio y experiencias para nuestra comunidad gl
 
 ## El Equipo
 
-- L1: Alumno 1.
-- L2: Pinko Palino.
-- L3: [Juliana Rotich](http://julia.na/).
-- L4: [Simon Sinek](https://simonsinek.com/).
-- L5: [Daryl Thornhill](http://www.madebydaryl.co.uk/).
-- L6: Alumno 6.
+- L1: [Gary **Le Masson**](http://www.garylemasson.com/).
+- L2: Pinko **Palino**.
+- L3: [Ellen S. **Riley**](http://ellensriley.com/).
+- L4: [Simon **Sinek**](https://simonsinek.com/).
+- L5: [Daryl **Thornhill**](http://www.madebydaryl.co.uk/).
+- L6: Alumno **6**.
 
 ## El Videojuego
